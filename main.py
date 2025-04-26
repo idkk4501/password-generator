@@ -9,3 +9,5 @@ for x in range(10):
   password += random.choice(chars)
 
 print(password)
+
+print('tysm for using my creation')
